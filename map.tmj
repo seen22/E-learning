@@ -468,7 +468,7 @@
                         {
                          "name":"audioLoop",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"audioVolume",
@@ -478,7 +478,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/drive.google.com\/file\/d\/17cc35p_YOnTUPbOBdNqDq0BRwD_HV0YK\/view?usp=sharing"
+                         "value":"src\\assets\\ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
