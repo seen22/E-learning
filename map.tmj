@@ -33,7 +33,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"E-learningsrcElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
+                 "value":"ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
