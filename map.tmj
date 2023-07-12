@@ -27,13 +27,19 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":21,
          "id":63,
+         "locked":true,
          "name":"Audio",
          "opacity":1,
          "properties":[
                 {
+                 "name":"Audio",
+                 "type":"file",
+                 "value":"ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
+                }, 
+                {
                  "name":"audioVolume",
                  "type":"int",
-                 "value":3
+                 "value":4
                 }, 
                 {
                  "name":"playAudio",
