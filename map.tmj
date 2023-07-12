@@ -3,6 +3,7 @@
  "infinite":false,
  "layers":[
         {
+         "class":"area",
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -28,6 +29,12 @@
          "id":63,
          "name":"Audio",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"E-learningsrcElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -365,11 +372,11 @@
                  "type":"",
                  "visible":true,
                  "width":93.7162209047986,
-                 "x":433.919325398621,
-                 "y":373.026911647132
+                 "x":736.041719992701,
+                 "y":94.5078291307143
                 }, 
                 {
-                 "height":135,
+                 "height":136.888264966213,
                  "id":16,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -396,9 +403,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":186,
-                 "x":5,
-                 "y":349
+                 "width":159.564290473018,
+                 "x":5.00000000000001,
+                 "y":346.16760255068
                 }, 
                 {
                  "height":136,
@@ -440,8 +447,8 @@
                  "type":"area",
                  "visible":true,
                  "width":50.2727272727272,
-                 "x":585.484848484849,
-                 "y":424.333333333333
+                 "x":738.434310748102,
+                 "y":191.132610006027
                 }, 
                 {
                  "height":64,
@@ -457,25 +464,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":226,
-                 "y":398
-                }, 
-                {
-                 "height":32,
-                 "id":19,
-                 "name":"from-conference",
-                 "properties":[
-                        {
-                         "name":"start",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32,
-                 "x":290,
-                 "y":334
+                 "x":753.770058056534,
+                 "y":95.8776054059198
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -557,7 +547,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":64,
+ "nextlayerid":66,
  "nextobjectid":21,
  "orientation":"orthogonal",
  "properties":[
