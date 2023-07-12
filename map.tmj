@@ -31,6 +31,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioVolume",
+                 "type":"int",
+                 "value":3
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
