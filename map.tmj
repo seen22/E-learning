@@ -478,7 +478,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\\assets\\ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
+                         "value":"src\\\\assets\\\\ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
