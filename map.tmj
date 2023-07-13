@@ -545,6 +545,33 @@
                  "width":162,
                  "x":775,
                  "y":499
+                }, 
+                {
+                 "height":67,
+                 "id":24,
+                 "name":"Contra Audio",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"src\/assets\/contraAudio.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":95,
+                 "x":259,
+                 "y":384
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -627,7 +654,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
