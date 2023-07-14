@@ -465,17 +465,6 @@
                  "y":516
                 }, 
                 {
-                 "height":39.6969696969697,
-                 "id":17,
-                 "name":"clock",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":50.2727272727272,
-                 "x":738.434310748102,
-                 "y":191.132610006027
-                }, 
-                {
                  "height":64,
                  "id":18,
                  "name":"to-conference",
@@ -574,26 +563,26 @@
                  "y":384
                 }, 
                 {
-                 "height":39.697,
+                 "height":65.697,
                  "id":26,
                  "name":"codeOfConduct",
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":50.2727,
-                 "x":39.86365,
+                 "width":87.6060333333333,
+                 "x":28.5303166666667,
                  "y":137.1515
                 }, 
                 {
-                 "height":66.197,
+                 "height":79.5303333333334,
                  "id":27,
                  "name":"Reflektionsfragen",
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":77.7727,
-                 "x":293.86365,
-                 "y":601.1515
+                 "width":94.4393666666666,
+                 "x":286.530316666667,
+                 "y":587.818166666667
                 }],
          "opacity":1,
          "type":"objectgroup",
