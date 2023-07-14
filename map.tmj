@@ -572,6 +572,28 @@
                  "width":95,
                  "x":259,
                  "y":384
+                }, 
+                {
+                 "height":39.697,
+                 "id":26,
+                 "name":"codeOfConduct",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":50.2727,
+                 "x":39.86365,
+                 "y":137.1515
+                }, 
+                {
+                 "height":66.197,
+                 "id":27,
+                 "name":"Reflektionsfragen",
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":77.7727,
+                 "x":293.86365,
+                 "y":601.1515
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -654,7 +676,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":25,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
