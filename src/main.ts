@@ -25,7 +25,7 @@ const codeOfConduct = ['Anleitung für den Raum',
     'Schaut euch zuerst im Inneren um. Wenn ihr ins freie tretet findet ihr neben der Tür eine Einleitung und rechts unten eine Zusammenfassung.' +
     ' Weitere Elemente müsst ihr entdecken.', 'Es gibt einen Bereich, wo ihr eine zufällig ausgewählte Frage bekommt,' +
     ' die euch zur Reflektion dienen soll, bzw. wenn ihr mit mehreren den Jitsi-Raum im linken Außenbereich betretet, gemeinsam bearbeitet werden kann.','Der Jitsi Raum im unteren Außenbereich soll genutzt werden für Reflektionsgespräche über die Lernerfahrung, wenn man mehrere User auf der Map ist.\n',
-    ,'Verhaltensregeln / Code of Conduct\n',
+    'Verhaltensregeln / Code of Conduct\n',
     '\n' +
     'Für die Etablierung einer produktiven Lernumgebung ist es uns wichtig, dass sich jeder Besucher in unserem Work Adventure-Raum wohl fühlt.',
     'Wir bitten euch um stets respektvollen und konstruktiven Umgang, wenn ihr euch hier begegnet. Die folgenden Regeln gelten uneingeschränkt für diesen Raum:\n',
