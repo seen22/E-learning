@@ -4,7 +4,7 @@ import { bootstrapExtra } from "@workadventure/scripting-api-extra";
 
 console.log('Script started successfully');
 
-let currentPopup: any = undefined;
+// let currentPopup: any = undefined;
 
 // Array mit den 10 Reflektionsfragen
 const reflectionQuestions = [
@@ -66,13 +66,9 @@ WA.onInit().then(() => {
 
     WA.room.area.onLeave('codeOfConduct').subscribe(() => WA.chat.close());
 
-    WA.room.area.onEnter('clock').subscribe(() => {
-        const today = new Date();
-        const time = today.getHours() + ":" + today.getMinutes();
-        currentPopup = WA.ui.openPopup("clockPopup", "It's " + time, []);
+    WA.room.area.onEnter('clockPopup').subscribe(() => {
+        WA.nav.openTab('https://mitpress.mit.edu/9780262515016/opening-up-education/');
     })
-
-    WA.room.area.onLeave('clock').subscribe(closePopup)
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {
@@ -81,11 +77,11 @@ WA.onInit().then(() => {
 
 }).catch(e => console.error(e));
 
-function closePopup(){
-    if (currentPopup !== undefined) {
-        currentPopup.close();
-        currentPopup = undefined;
-    }
-}
+// function closePopup(){
+//     if (currentPopup !== undefined) {
+//         currentPopup.close();
+//         currentPopup = undefined;
+//     }
+// }
 
 export {};
