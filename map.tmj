@@ -623,7 +623,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/assets\/zusammenfassungaudio.mp3"
+                         "value":"src\/assets\/willkommen.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
