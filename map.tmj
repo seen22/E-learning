@@ -589,6 +589,33 @@
                  "width":121.439366666667,
                  "x":259.530316666667,
                  "y":548.818166666667
+                }, 
+                {
+                 "height":36,
+                 "id":29,
+                 "name":"Willkommen",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":2
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"src\/assets\/zusammenfassungaudio.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":113,
+                 "x":402,
+                 "y":289
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -671,7 +698,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
