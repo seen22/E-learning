@@ -503,7 +503,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/assets\/ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
+                         "value":"ElevenLabs_2023_07_10T18_17_54_000Z_Bella_oqL5zfvFQpNuRgEWcsiP.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -530,7 +530,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/assets\/zusammenfassungaudio.mp3"
+                         "value":"zusammenfassungaudio.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -557,7 +557,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/assets\/contraAudio.mp3"
+                         "value":"contraAudio.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -603,10 +603,11 @@
                          "type":"int",
                          "value":2
                         }, 
+                        },
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"willkommen.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
