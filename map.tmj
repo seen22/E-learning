@@ -567,24 +567,24 @@
                  "y":511
                 }, 
                 {
-                 "height":94.697,
+                 "height":114.697,
                  "id":26,
                  "name":"codeOfConduct",
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":60.606033333333,
+                 "width":50.606033333333,
                  "x":95.5303166666667,
                  "y":127.1515
                 }, 
                 {
-                 "height":69.530333333333,
+                 "height":123.530333333333,
                  "id":27,
                  "name":"Reflektionsfragen",
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":62.439366666667,
+                 "width":116.439366666667,
                  "x":257.530316666667,
                  "y":543.818166666667
                 }, 
@@ -603,7 +603,6 @@
                          "type":"int",
                          "value":2
                         }, 
-                        },
                         {
                          "name":"playAudio",
                          "type":"string",
@@ -615,6 +614,28 @@
                  "width":113,
                  "x":406,
                  "y":257
+                }, 
+                {
+                 "height":210.608,
+                 "id":30,
+                 "name":"reflectionPopUp",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":468.263,
+                 "x":223.8685,
+                 "y":144.696
+                }, 
+                {
+                 "height":684.096,
+                 "id":31,
+                 "name":"codeOfConductPopUp",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":970.287,
+                 "x":2.85649999999998,
+                 "y":-4.04799999999997
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -697,7 +718,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":30,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
