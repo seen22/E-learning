@@ -379,7 +379,7 @@
                 }, 
                 {
                  "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
-                    0, 0, 2735, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+                    0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 91, 0, 0, 0, 0, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 103, 0, 0, 0, 0, 103, 0, 0, 0, 2922, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
                     0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2928, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -616,58 +616,21 @@
                  "y":257
                 }, 
                 {
-                 "height":43,
-                 "id":30,
-                 "name":"Book1",
+                 "height":63,
+                 "id":32,
+                 "name":"Test",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/openlibrary.org\/subjects\/textbooks"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to open"
+                         "value":"https:\/\/de.wikipedia.org\/wiki\/Robert_Oppenheimer"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":62,
-                 "x":94,
-                 "y":549
-                }, 
-                {
-                 "height":47,
-                 "id":31,
-                 "name":"Book2",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\\onlinebooks.library.upenn.edu"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
-                        }],
-                 "rotation":0,
-                 "type":"Area",
-                 "visible":true,
-                 "width":68,
-                 "x":1,
-                 "y":547
+                 "width":174,
+                 "x":188,
+                 "y":123
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -750,7 +713,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
