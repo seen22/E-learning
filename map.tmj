@@ -614,6 +614,23 @@
                  "width":113,
                  "x":406,
                  "y":257
+                }, 
+                {
+                 "height":28,
+                 "id":30,
+                 "name":"Book1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.doabooks.org"
+                        }],
+                 "rotation":0,
+                 "type":"Area",
+                 "visible":true,
+                 "width":62,
+                 "x":94,
+                 "y":549
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -696,7 +713,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
