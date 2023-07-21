@@ -621,9 +621,24 @@
                  "name":"Book1",
                  "properties":[
                         {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.doabooks.org"
+                        }, 
+                        {
+                         "name":"openWebsite Trigger",
+                         "type":"string",
+                         "value":"onAction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to open"
                         }],
                  "rotation":0,
                  "type":"Area",
