@@ -631,6 +631,23 @@
                  "width":62,
                  "x":94,
                  "y":549
+                }, 
+                {
+                 "height":35,
+                 "id":31,
+                 "name":"Book2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/onlinebooks.library.upenn.edu"
+                        }],
+                 "rotation":0,
+                 "type":"Area",
+                 "visible":true,
+                 "width":68,
+                 "x":1,
+                 "y":547
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -713,7 +730,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":31,
+ "nextobjectid":32,
  "orientation":"orthogonal",
  "properties":[
         {
