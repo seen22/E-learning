@@ -633,7 +633,7 @@
                         {
                          "name":"openWebsite Trigger",
                          "type":"string",
-                         "value":"onAction"
+                         "value":"onaction"
                         }, 
                         {
                          "name":"openWebsiteTriggerMessage",
