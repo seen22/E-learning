@@ -503,12 +503,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"intro2.html"
+                         "value":"src\/assets\/intro2.html"
                         }, 
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"src\\assets\\Einleitung.mp3"
+                         "value":"src\/assets\/Einleitung.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -579,7 +579,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":".\/codeOfConduct.html"
+                         "value":"src\/assets\/codeOfConduct.html"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -617,7 +617,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"intro.html"
+                         "value":"src\/assets\/intro.html"
                         }, 
                         {
                          "name":"playAudio",
