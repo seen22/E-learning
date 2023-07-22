@@ -579,7 +579,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"codeOfConduct.html"
+                         "value":".\/codeOfConduct.html"
                         }],
                  "rotation":0,
                  "type":"area",
