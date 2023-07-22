@@ -616,7 +616,7 @@
                  "y":257
                 }, 
                 {
-                 "height":210.608,
+                 "height":166.608,
                  "id":30,
                  "name":"reflectionPopUp",
                  "rotation":0,
@@ -624,18 +624,18 @@
                  "visible":true,
                  "width":468.263,
                  "x":223.8685,
-                 "y":144.696
+                 "y":188.696
                 }, 
                 {
-                 "height":684.096,
+                 "height":633.429333333333,
                  "id":31,
                  "name":"codeOfConductPopUp",
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":970.287,
-                 "x":2.85649999999998,
-                 "y":-4.04799999999997
+                 "width":956.953666666667,
+                 "x":10.8565,
+                 "y":15.952
                 }],
          "opacity":1,
          "type":"objectgroup",
