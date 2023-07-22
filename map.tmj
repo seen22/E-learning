@@ -533,6 +533,11 @@
                          "value":1
                         }, 
                         {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"src\/assets\/zusammenfassung.html"
+                        }, 
+                        {
                          "name":"playAudio",
                          "type":"string",
                          "value":"src\/assets\/zusammenfassungaudio.mp3"
@@ -558,6 +563,11 @@
                          "name":"audioVolume",
                          "type":"int",
                          "value":1
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"src\/assets\/contra.html"
                         }, 
                         {
                          "name":"playAudio",
