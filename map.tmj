@@ -592,6 +592,12 @@
                  "height":69.530333333333,
                  "id":27,
                  "name":"Reflektionsfragen",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"src\/assets\/randomQuestion.html"
+                        }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,

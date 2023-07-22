@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            background-color: rgba(255, 255, 255, 0.8); /* Half-transparent white background */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 10px;
+            font-size: 18px;
+        }
+
+    </style>
+</head>
+<body>
+<p id="question"></p>
+
+<script>
+    // Array mit den 10 Reflektionsfragen
+    const reflectionQuestions = [
+        "Wie könnten OER dazu beitragen, den Zugang zu Bildung in benachteiligten Gemeinschaften oder Regionen zu verbessern?",
+        "Welche Möglichkeiten bieten OER, um individuelles und personalisiertes Lernen zu fördern?",
+        "Wie könnten Lehrende die Qualität von OER sicherstellen und sicherstellen, dass die Materialien den Bedürfnissen der Lernenden entsprechen?",
+        "Welche Auswirkungen könnten OER auf traditionelle Verlage und die Art und Weise haben, wie Lehrbücher erstellt und verbreitet werden?",
+        "Inwiefern können OER dazu beitragen, kulturelle Vielfalt und lokale Inhalte in die Bildung einzubeziehen?",
+        "Wie könnten OER genutzt werden, um die Zusammenarbeit und den Austausch von bewährten Praktiken zwischen Lehrenden auf globaler Ebene zu fördern?",
+        "Welche Rolle spielt die digitale Kompetenz bei der effektiven Nutzung und Anpassung von OER?",
+        "Wie könnten OER dazu beitragen, die Schülerbeteiligung und das Engagement in verschiedenen Bildungsbereichen zu steigern?",
+        "Welche Herausforderungen und Chancen ergeben sich durch die Verwendung von OER im Bereich der beruflichen Aus- und Weiterbildung?",
+        "Wie könnten Bildungsinstitutionen und Regierungen die Integration von OER in Bildungssysteme fördern und unterstützen?"
+    ];
+
+    function getRandomQuestion() {
+        const randomIndex = Math.floor(Math.random() * reflectionQuestions.length);
+        return reflectionQuestions[randomIndex];
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+        const questionElement = document.getElementById('question');
+        questionElement.textContent = getRandomQuestion();
+    });
+</script>
+</body>
+</html>
