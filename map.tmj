@@ -801,7 +801,7 @@
                  "y":91.5
                 }, 
                 {
-                 "height":77,
+                 "height":83.6666666666667,
                  "id":43,
                  "name":"bookResource1",
                  "properties":[
@@ -815,7 +815,7 @@
                  "visible":true,
                  "width":73,
                  "x":2.5,
-                 "y":498.5
+                 "y":491.833333333333
                 }, 
                 {
                  "height":94,
@@ -847,12 +847,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":77,
-                 "x":79.5,
+                 "width":64.3333333333333,
+                 "x":95.5,
                  "y":492.5
                 }, 
                 {
-                 "height":89,
+                 "height":94.6666666666666,
                  "id":46,
                  "name":"bookResource4",
                  "properties":[
@@ -864,12 +864,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":86,
-                 "x":79.5,
-                 "y":578.5
+                 "width":63.6666666666667,
+                 "x":96.1666666666667,
+                 "y":576.833333333333
                 }, 
                 {
-                 "height":77,
+                 "height":81.6666666666666,
                  "id":47,
                  "name":"bookResource5",
                  "properties":[
@@ -881,12 +881,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":73,
-                 "x":181.5,
+                 "width":68.6666666666667,
+                 "x":185.833333333333,
                  "y":492.5
                 }, 
                 {
-                 "height":94,
+                 "height":96.3333333333334,
                  "id":48,
                  "name":"bookResource6",
                  "properties":[
@@ -899,8 +899,8 @@
                  "type":"area",
                  "visible":true,
                  "width":71,
-                 "x":181.5,
-                 "y":576.5
+                 "x":185.166666666667,
+                 "y":577.833333333333
                 }, 
                 {
                  "height":77,
