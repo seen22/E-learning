@@ -806,24 +806,9 @@
                  "name":"bookResource1",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/www.doabooks.org"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -838,24 +823,9 @@
                  "name":"bookResource2",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/oapen.org\/home"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -870,24 +840,9 @@
                  "name":"bookResource3",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/onlinebooks.library.upenn.edu"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -902,24 +857,9 @@
                  "name":"bookResource4",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/openstax.org"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -934,24 +874,9 @@
                  "name":"bookResource5",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/openlibrary.org\/subjects\/textbooks"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -966,24 +891,9 @@
                  "name":"bookResource6",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/bio.libretexts.org\/Bookshelves\/"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -998,24 +908,9 @@
                  "name":"urlResource1",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/ocw.mit.edu"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1030,24 +925,9 @@
                  "name":"urlResource2",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/oercommons.org"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1062,24 +942,9 @@
                  "name":"urlResource3",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/learn.saylor.org"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1094,24 +959,9 @@
                  "name":"urlResource4",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/oasis.geneseo.edu"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1126,24 +976,9 @@
                  "name":"urlResource5",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/www.khanacademy.org"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1158,24 +993,9 @@
                  "name":"urlResource6",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/www.merlot.org\/merlot\/index.htm"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1190,24 +1010,9 @@
                  "name":"urlResource7",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"http:\/\/online.stanford.edu\/explore?filter%5B0%5D=free_or_paid%3Afree"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1222,24 +1027,9 @@
                  "name":"urlResource8",
                  "properties":[
                         {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":2
-                        }, 
-                        {
-                         "name":"openWebsite",
+                         "name":"openTab",
                          "type":"string",
-                         "value":"src\/assets\/intro.html"
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"src\/assets\/willkommen.mp3"
+                         "value":"https:\/\/www.codecademy.com"
                         }],
                  "rotation":0,
                  "type":"area",
